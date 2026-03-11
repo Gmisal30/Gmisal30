@@ -1,6 +1,5 @@
 # Hi there 👋 I'm Gayatri Misal
 
-[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00d4ff&style=flat-square)](https://github.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gayatrimisal/)
 [![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-10b981?style=flat-square)](mailto:your.email@gmail.com)
 
@@ -89,15 +88,6 @@ NLP project classifying 50K+ movie reviews as Positive/Negative using TF-IDF vec
 - ✅ Text preprocessing: tokenization, stopword removal, stemming
 - ✅ Achieved 88% accuracy on test set
 - ✅ Exported predictions to Tableau for interactive word-cloud dashboard
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
 
 ---
 
