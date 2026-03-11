@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Gayatri Misal
 
 [![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00d4ff&style=flat-square)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gayatrimisal/)
 [![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-10b981?style=flat-square)](mailto:your.email@gmail.com)
 
 > *"Without data, you're just another person with an opinion."* — W. Edwards Deming
