@@ -111,9 +111,9 @@ NLP project classifying 50K+ movie reviews as Positive/Negative using TF-IDF vec
 
 ## 📬 Let's Connect
 
-- 📧 Email: your.email@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 📄 Resume: [View PDF](https://your-resume-link.com)
+- 📧 Email: misalgayatri3@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/gayatrimisal/
+
 
 ---
 
