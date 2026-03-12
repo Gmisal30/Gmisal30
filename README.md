@@ -31,7 +31,7 @@
 
 ## 🚀 Featured Projects
 
-### 📊 [Sales Performance Dashboard](https://github.com/yourusername/sales-dashboard)
+### 📊 [Sales Performance Dashboard](https://gmisal30.github.io/Sales-Dashboard/)
 > **Power BI · DAX · Power Query · Excel**
 
 Interactive Power BI dashboard tracking KPIs, revenue trends, and regional sales performance with drill-through pages and dynamic slicers.
