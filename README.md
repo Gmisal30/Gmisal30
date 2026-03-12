@@ -108,4 +108,3 @@ NLP project classifying 50K+ movie reviews as Positive/Negative using TF-IDF vec
 ---
 
 💡 *Open to internships, entry-level Data Analyst roles, and project collaborations!*
-⭐ *If you found my projects helpful, please give them a star!*
